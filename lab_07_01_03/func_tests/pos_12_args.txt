@@ -1,0 +1,1 @@
+func_tests/pos_12_in.txt pos_out.txt f

@@ -1,0 +1,7 @@
+3
+Apple
+55
+Watermelon
+199
+Lemon
+299
